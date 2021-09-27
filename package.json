@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-rapidoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "clean": "gatsby clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apidevtools/swagger-parser": "^10.0.3",
+    "gatsby": "^3.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
